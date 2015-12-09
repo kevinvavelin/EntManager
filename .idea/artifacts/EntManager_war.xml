@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EntManager:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/EntManager_war</output-path>
+    <root id="archive" name="EntManager_war.war">
+      <element id="artifact" artifact-name="EntManager:war exploded" />
+    </root>
+  </artifact>
+</component>
